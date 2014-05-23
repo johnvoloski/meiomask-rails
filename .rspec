@@ -1,0 +1,5 @@
+--format documentation
+--colour
+--format html
+--out spec/reports/index.html
+--profile
