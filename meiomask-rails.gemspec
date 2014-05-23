@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name          = "meiomask-rails"
-  gem.version       = "1.1.12"
+  gem.version       = "1.1.14"
   gem.authors       = ["Fabio M. Costa"]
   gem.email         = ["fabiomcosta@gmail.com"]
   gem.description   = %q{jquery.meiomask for rails.}
